@@ -6,7 +6,7 @@ This repository hosts the GitHub Pages website for my MA dissertation, which pro
 
 ## Live Site
 
-Visit: [https://neon9809.github.io/hybrid-model/](https://neon9809.github.io/hybrid-model/)
+Visit: [https://dissertation.neon.wang](https://dissertation.neon.wang)
 
 ## Abstract
 
