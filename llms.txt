@@ -1,0 +1,43 @@
+# Reimagining Human-AI Communication: A Hybrid Model for Large Language Model Interactions
+
+> MA Dissertation by Neon Wang, University of Exeter, MA Media and Communications, 2025.
+> Awarded: Distinction
+
+## Summary
+
+This dissertation proposes a novel hybrid framework for understanding human–Large Language Model (LLM) communication. It redefines agency as distributed across users, developers, providers, and models; treats semantic noise, hallucinations, and context limits as structural features rather than errors; conceptualizes provider mediation (system prompts, RAG, compliance filtering) as a new form of algorithmic agenda-setting; and integrates LLM Literacy — a five-competency human-centric model (Recognize, Resonate, Reflect, Responsible, Refine) — to empower users in co-constructing meaning amid probabilistic outputs.
+
+## Machine-Readable Content
+
+- Full dissertation in Markdown: https://dissertation.neon.wang/dissertation.md
+- This file: https://dissertation.neon.wang/llms.txt
+
+## Structure
+
+- Abstract
+- Chapter 1: Introduction (definitions, research context, problem statement, research questions)
+- Chapter 2: Literature Review (traditional communication theories, HCI/HMC frameworks, parasocial interaction)
+- Chapter 3: Technical Mechanisms and Algorithmic Processes (Transformer architecture, training pipelines, RLHF, RAG, provider mediation)
+- Chapter 4: Future-Oriented LLM Literacy (5R competency framework: Recognize, Resonate, Reflect, Responsible, Refine)
+- Chapter 5: A Hybrid Model for Human-LLM Communication (the proposed framework, distributed agency, meaning construction layer)
+- Chapter 6: Discussion (multi-agent systems, governance, open-source LLMs, regional regulation)
+- Chapter 7: Conclusion
+- References
+
+## Key Concepts
+
+- Hybrid communication model for human-LLM interaction
+- Distributed agency (developers, providers, models, users)
+- LLM Literacy (5R framework)
+- Provider mediation as algorithmic agenda-setting
+- Semantic noise, hallucination, context limits as structural features
+- Anthropomorphism risks in human-LLM communication
+- EU AI Act, UK DSIT regulatory compliance
+- Multi-agent orchestration and governance
+
+## Author
+
+Neon Wang
+University of Exeter, MA Media and Communications
+Submission: 17 August 2025
+Website: https://dissertation.neon.wang

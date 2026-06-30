@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reimagining Human-AI Communication | Neon Wang</title>
     <meta name="description" content="A Hybrid Model for Large Language Model Interactions - MA Dissertation by Neon Wang, University of Exeter">
+    <!-- LLM Agent discovery -->
+    <link rel="alternate" type="text/markdown" href="/dissertation.md" title="Full dissertation in Markdown">
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM agent index (llms.txt)">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,400&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
@@ -427,6 +430,54 @@
             color: var(--accent-light);
         }
 
+        /* ── LLM Agent Footer ── */
+        .llm-footer {
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            margin-left: var(--sidebar-width);
+            padding: 16px 60px;
+        }
+
+        .llm-footer-inner {
+            max-width: 820px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .llm-footer-icon {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 13px;
+            color: var(--accent);
+            opacity: 0.7;
+            flex-shrink: 0;
+        }
+
+        .llm-footer-text {
+            font-size: 12px;
+            color: var(--text-dim);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .llm-footer-link {
+            color: var(--accent-light);
+            text-decoration: none;
+            border-bottom: 1px dashed rgba(126,179,255,0.4);
+            transition: color 0.15s;
+        }
+
+        .llm-footer-link:hover {
+            color: var(--accent);
+        }
+
+        @media (max-width: 900px) {
+            .llm-footer {
+                margin-left: 0;
+                padding: 16px 24px;
+            }
+        }
+
         /* ── Responsive ── */
         @media (max-width: 900px) {
             .sidebar {
@@ -524,6 +575,18 @@ The LLM Literacy competencies, particularly Critical Evaluation and Ethical Awar
 </div>
 
 <a href="#" class="back-to-top" id="backToTop">↑</a>
+
+<!-- LLM Agent Footer -->
+<footer class="llm-footer">
+    <div class="llm-footer-inner">
+        <span class="llm-footer-icon">⟨/⟩</span>
+        <span class="llm-footer-text">For LLM agents &amp; researchers: plain-text version available at
+            <a href="/dissertation.md" class="llm-footer-link">dissertation.md</a>
+            &nbsp;·&nbsp;
+            <a href="/llms.txt" class="llm-footer-link">llms.txt</a>
+        </span>
+    </div>
+</footer>
 
 <script>
     // Progress bar
