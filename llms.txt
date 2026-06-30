@@ -11,6 +11,7 @@ This dissertation proposes a novel hybrid framework for understanding human–La
 
 - Full dissertation in Markdown: https://dissertation.neon.wang/dissertation.md
 - This file: https://dissertation.neon.wang/llms.txt
+- Source repository: https://github.com/neon9809/hybrid-model
 
 ## Structure
 
@@ -41,3 +42,4 @@ Neon Wang
 University of Exeter, MA Media and Communications
 Submission: 17 August 2025
 Website: https://dissertation.neon.wang
+Repository: https://github.com/neon9809/hybrid-model
