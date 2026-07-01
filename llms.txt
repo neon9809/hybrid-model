@@ -9,7 +9,7 @@ This dissertation proposes a novel hybrid framework for understanding human–La
 
 ## Machine-Readable Content
 
-- Full dissertation in Markdown: https://dissertation.neon.wang/dissertation.md
+- Full dissertation in Markdown: https://dissertation.neon.wang/dissertation
 - This file: https://dissertation.neon.wang/llms.txt
 - Source repository: https://github.com/neon9809/hybrid-model
 

@@ -28,7 +28,7 @@ This dissertation addresses the critical theoretical gap in understanding humanâ
 
 ## For LLM Agents
 
-- Plain-text Markdown: [dissertation.md](https://dissertation.neon.wang/dissertation.md)
+- Plain-text Markdown: [dissertation.md](https://dissertation.neon.wang/dissertation)
 - Agent index: [llms.txt](https://dissertation.neon.wang/llms.txt)
 
 ---

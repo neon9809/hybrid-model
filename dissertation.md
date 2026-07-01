@@ -6,7 +6,7 @@ programme: "MA Media and Communications"
 word_count: 16295
 date: "17 August 2025"
 url: "https://dissertation.neon.wang"
-plain_text_url: "https://dissertation.neon.wang/dissertation.md"
+plain_text_url: "https://dissertation.neon.wang/dissertation"
 ---
 
 Reimagining Human-AI Communication: 
